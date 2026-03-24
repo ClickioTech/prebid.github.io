@@ -11,7 +11,6 @@ usp_supported: true
 gpp_sids: tcfeu, usnat
 coppa_supported: true
 schain_supported: true
-gdpr_supported: true
 userId: all
 media_types: banner
 floors_supported: true
