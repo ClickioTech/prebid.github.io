@@ -8,7 +8,7 @@ pbs: false
 gvl_id: 1500
 tcfeu_supported: true
 usp_supported: true
-gpp_supported: true
+gpp_sids: tcfeu, usnat
 coppa_supported: true
 schain_supported: true
 gdpr_supported: true
